@@ -76,8 +76,6 @@ body, html {
 
 
 .main {
-    height: calc(100vh - 160px);
-    overflow-y: scroll;
     padding: 20px;
     background: linear-gradient(to right, #3b3b3b, #252525); 
     transition: background-color 0.5s, color 0.5s;
